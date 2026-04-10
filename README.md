@@ -107,6 +107,7 @@ for i, link in enumerate(links[:10]):
 
 A pasta `data/html/` é **apagada e recriada** a cada execução para evitar duplicações.
 
+Devido ao tamanho dos sv gerandos nao serem suportados pelo github estaremos enviando separadamente.
 ---
 
 ##  Tarefa 2 — IMDb — Em Desenvolvimento
