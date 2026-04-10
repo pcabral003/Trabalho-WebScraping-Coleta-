@@ -7,7 +7,7 @@ __pycache__/
 *.so
 
 #
-WikiPedia_scraping/data/html/
+WikiPedia_scraping/data/
 
 
 
