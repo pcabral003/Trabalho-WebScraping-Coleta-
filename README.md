@@ -16,7 +16,8 @@ Aplicar técnicas de web scraping em dois cenários:
 
 - Python **3.8+**
 - pip
-
+- pandas
+- bs4
 ---
 
 ## ⚙️ Instalação
