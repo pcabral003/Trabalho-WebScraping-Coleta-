@@ -55,6 +55,8 @@ O notebook realiza as seguintes etapas:
 3. **Scraping dos HTMLs:** extrai de cada página salva o título, o primeiro parágrafo, as URLs das imagens e os links internos.
 4. **Exportação:** salva os dados em dois arquivos CSV com timestamp da coleta.
 
+!. **AVISO** Devido ao tamanho dos sv gerandos nao serem suportados pelo github estaremos enviando separadamente.
+
 ### Como executar
 
 ```bash
@@ -107,7 +109,6 @@ for i, link in enumerate(links[:10]):
 
 A pasta `data/html/` é **apagada e recriada** a cada execução para evitar duplicações.
 
-Devido ao tamanho dos sv gerandos nao serem suportados pelo github estaremos enviando separadamente.
 ---
 
 ##  Tarefa 2 — IMDb — Em Desenvolvimento
